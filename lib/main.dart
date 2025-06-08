@@ -1,6 +1,6 @@
 // lib/main.dart
 import 'package:flutter/material.dart';
-import 'package:news_summary_app/widgets/news_category_widget.dart'; // 後で作成
+import 'package:kyarameru_app/widgets/news_category_widget.dart'; // 後で作成
 
 void main() {
   runApp(const MyApp());
